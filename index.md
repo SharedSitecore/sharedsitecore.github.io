@@ -10,3 +10,5 @@ Bare with me. I'm just getting started moving to this collection/namespace/proje
 5. I am even working on a few projects worthy of the root level: **Shared**
 
 More details and resources coming soon. Stay tuned.
+
+For now, watch Nuget for the latest releases: [https://www.nuget.org/packages?q=SharedSitecore](https://www.nuget.org/packages?q=SharedSitecore).

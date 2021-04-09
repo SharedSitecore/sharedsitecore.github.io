@@ -1,39 +1,12 @@
 ## Welcome to [SharedSitecore.com](/)
 
-Bare with me. I'm just getting started with this collection/project/version.
+Bare with me. I'm just getting started moving to this collection/namespace/project/version. With well over 100+ various packages it will take a little while.
 
-### Sitecore.Extensions
+### The Evolution of the SharedSitecore Namespace
+1. Everyone has used their own version, but [John West](https://sitecorejohn.wordpress.com/) made popular (and I too used for quite some time): **Sitecore.Shared**
+2. In an effort to avoid Sitecore namespace collisons, I moved to: **SitecoreShared**
+3. I introduce **SharedSitecore**. This should provide greater discoverability (comes before Sitecore) and no namespace collisions.
+4. I am following this naming convention everywhere now, such as: **SharedSelenium**
+5. I am even working on a few projects worthy of the root level: **Shared**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-### Sitecore.Forms
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SharedSitecore/sharedsitecore.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+More details and resources coming soon. Stay tuned.

@@ -17,4 +17,4 @@ Disclaimer: All content is the opinion of its authors and do not represent the v
 
 Unless otherwise stated, all code is provided *as is*, without warranties or conditions of any kind, either express or implied, including without limitation any implied warranties or conditions of title, fitness for a particular purpose, merchantability or non-infringement.
 
-Trademarks: All trademarks are the property of their respective owners, ie: [Microsoft](https://microsoft.com), [Azure](https://azure.com), [Sitecore](https://sitecore.com)
+Trademarks: All trademarks are the property of their respective owners, ie: [GitHub](https://github.com), [Microsoft](https://microsoft.com), [Azure](https://azure.com), [Sitecore](https://sitecore.com)

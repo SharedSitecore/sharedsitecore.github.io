@@ -12,3 +12,9 @@ Bare with me. I'm just getting started moving to this collection/namespace/proje
 More details and resources coming soon. Stay tuned.
 
 For now, watch Nuget for the latest releases: [https://www.nuget.org/packages?q=SharedSitecore](https://www.nuget.org/packages?q=SharedSitecore).
+
+Disclaimer: All content is the opinion of the authors and do not represent the views of myself, employer or anyone else.
+
+Unless otherwise stated, all code is provided *as is*, without warranties or conditions of any kind, either express or implied, including without limitation any implied warranties or conditions of title, fitness for a particular purpose, merchantability or non-infringement.
+
+Trademarks: All trademarks are the property of their respective owners, ie: ([https://microsoft.com](Microsoft), ([https://azure.com](Azure), ([https://sitecore.com](Sitecore)

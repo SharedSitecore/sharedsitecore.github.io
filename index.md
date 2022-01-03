@@ -18,13 +18,13 @@ The best and easiest namespace to Share Sitecore code
 [Get-SitecoreVersion](https://github.com/SharedSitecore/Get-SitecoreVersion)<br/>
 
 ### The Evolution of the SharedSitecore Namespace
-I. **WhateverYouWant** - Per Company, Per Project, etc., but provides zero discoverability by namespace.
-II. **Sitecore.Shared** - Made popular by [John West](https://sitecorejohn.wordpress.com/){:target="_blank"}
-II. **SitecoreShared** - In an effort to avoid Sitecore namespace conflicts.
-III. **SeveralVariationsAndVersions** - Insert several other variations and versions of the namespaces.
-IV. **Shared.SharedSitecore** - Now, I introduce, the best so far: **Shared.SharedSitecore**. This should provide greater discoverability (comes before Sitecore) and no namespace conflicts.
-V. **Shared.SeleniumExtensions** - I am also following this naming convention everywhere now, such as: [**Shared.SeleniumExtensions**](https://github.com/Radical-Dave/Shared.SeleniumExtensions)
-VI. **Shared** - I am even working on a few projects worthy of the root level: Shared.
+I. **WhateverYouWant** - Per Company, Per Project, etc., but provides zero discoverability by namespace.<br/>
+II. **Sitecore.Shared** - Made popular by [John West](https://sitecorejohn.wordpress.com/){:target="_blank"}.<br/>
+II. **SitecoreShared** - In an effort to avoid Sitecore namespace conflicts.<br/>
+III. **SeveralVariationsAndVersions** - Insert several other variations and versions of the namespaces.<br/>
+IV. **Shared.SharedSitecore** - Now, I introduce, the best so far: **Shared.SharedSitecore**. This should provide greater discoverability (comes before Sitecore) and no namespace conflicts.<br/>
+V. **Shared.SeleniumExtensions** - I am also following this naming convention everywhere now, such as: [**Shared.SeleniumExtensions**](https://github.com/Radical-Dave/Shared.SeleniumExtensions)<br/>
+VI. **Shared** - I am even working on a few projects worthy of the root level: Shared.<br/>
 
 With well over 1000+ various packages/projects spread out across Github, Azure DevOps and various systems, it will take a little while to get everything moved.
 

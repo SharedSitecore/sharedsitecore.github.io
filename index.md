@@ -1,5 +1,40 @@
 ## Welcome to [SharedSitecore.com](/)
 
+<center>
+<table width="100%" border="1"><tr><td valign="top" width="33%">
+  
+### ⚡ Popular Projects
+
+<hr>
+
+  [SitecoreDocker](https://github.com/SharedSitecore/SitecoreDocker)<br/>
+  [SitecoreLocal](https://github.com/SharedSitecore/SitecoreLocal)<br/>
+  [Import-SitecoreAzureToolkit](https://github.com/SharedSitecore/Import-SitecoreAzureToolkit)<br/>
+  
+</td><td valign="top" width="33%">
+  
+### 🔭 Current Projects
+
+<hr>
+
+[ConvertTo-SitecoreWDP](https://github.com/SharedSitecore/ConvertTo-SitecoreWDP)<br/>
+[SitecoreMac](https://github.com/SharedSitecore/SitecoreMac)<br/>
+
+</td><td valign="top" width="33%">
+  
+### 👯 Newest Projects!
+  
+<hr>
+
+[Get-SitecoreSite](https://github.com/SharedSitecore/Get-SitecoreSite)<br/>
+[Get-SitecoreVersion](https://github.com/SharedSitecore/Get-SitecoreVersion)<br/>
+  
+</td></tr><tr><td width="100%" colspan="3">
+  
+  </td></tr>
+</table>
+</center>
+
 Bare with me. I'm just getting started moving to this collection/namespace/project/version. With well over 100+ various packages it will take a little while.
 
 ### The Evolution of the SharedSitecore Namespace

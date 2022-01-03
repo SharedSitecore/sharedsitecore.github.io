@@ -1,41 +1,23 @@
 ## Welcome to [SharedSitecore.com](/)
 The best and easiest namespace to Share Sitecore code
-<center>
-<table width="100%" border="1"><tr><td valign="top" width="33%">
   
 ### ⚡ Popular Projects
-
 <hr>
-
-  [SitecoreDocker](https://github.com/SharedSitecore/SitecoreDocker)<br/>
-  [SitecoreLocal](https://github.com/SharedSitecore/SitecoreLocal)<br/>
-  [Import-SitecoreAzureToolkit](https://github.com/SharedSitecore/Import-SitecoreAzureToolkit)<br/>
-  
-</td><td valign="top" width="33%">
+[SitecoreDocker](https://github.com/SharedSitecore/SitecoreDocker)<br/>
+[SitecoreLocal](https://github.com/SharedSitecore/SitecoreLocal)<br/>
+[Import-SitecoreAzureToolkit](https://github.com/SharedSitecore/Import-SitecoreAzureToolkit)<br/>
   
 ### 🔭 Current Projects
-
 <hr>
-
 [ConvertTo-SitecoreWDP](https://github.com/SharedSitecore/ConvertTo-SitecoreWDP)<br/>
 [SitecoreMac](https://github.com/SharedSitecore/SitecoreMac)<br/>
 
-</td><td valign="top" width="33%">
-  
 ### 👯 Newest Projects!
-  
 <hr>
-
 [Get-SitecoreSite](https://github.com/SharedSitecore/Get-SitecoreSite)<br/>
 [Get-SitecoreVersion](https://github.com/SharedSitecore/Get-SitecoreVersion)<br/>
-  
-</td></tr><tr><td width="100%" colspan="3">
-  
-  </td></tr>
-</table>
-</center>
 
-Bare with me. With well over 100+ various packages it will take a little while to get everything moved.
+With well over 1000+ various packages/projects spread out across Github, Azure DevOps and various systems, it will take a little while to get everything moved.
 
 ### The Evolution of the SharedSitecore Namespace
 1. Everyone has used their own namespace or followed what [John West](https://sitecorejohn.wordpress.com/){:target="_blank"} made popular (and I too used for quite some time): **Sitecore.Shared**

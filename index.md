@@ -35,10 +35,10 @@ The best and easiest namespace to Share Sitecore code
 </table>
 </center>
 
-Bare with me. I'm just getting started moving to this collection/namespace/project/version. With well over 100+ various packages it will take a little while.
+Bare with me. With well over 100+ various packages it will take a little while to get everything moved.
 
 ### The Evolution of the SharedSitecore Namespace
-1. Everyone has used their own version, but [John West](https://sitecorejohn.wordpress.com/){:target="_blank"} made popular (and I too used for quite some time): **Sitecore.Shared**
+1. Everyone has used their own namespace or followed what [John West](https://sitecorejohn.wordpress.com/){:target="_blank"} made popular (and I too used for quite some time): **Sitecore.Shared**
 2. In an effort to avoid Sitecore namespace conflicts, I moved to: **SitecoreShared**
 3. Now, I introduce, the best so far: **SharedSitecore**. This should provide greater discoverability (comes before Sitecore) and no namespace conflicts.
 4. I am also following this naming convention everywhere now, such as: **SharedSelenium**

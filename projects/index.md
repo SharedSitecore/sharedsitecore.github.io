@@ -3,11 +3,9 @@ The best and easiest namespace to Share Sitecore code
   
 ### ⚡ Projects
 <hr>
-[SitecoreDocker](./SitecoreDocker)<br/>
-[SitecoreLocal](https://github.com/SharedSitecore/SitecoreLocal)<br/>
-[Import-SitecoreAzureToolkit](https://github.com/SharedSitecore/Import-SitecoreAzureToolkit)<br/>
-[Get-SitecoreSite](https://github.com/SharedSitecore/Get-SitecoreSite)<br/>
-[Get-SitecoreVersion](https://github.com/SharedSitecore/Get-SitecoreVersion)<br/>
+{% for repository in site.github.public_repositories %}
+[{{ repository.name }}]({{ repository.html_url }})<br/>
+{% endfor %}
 
 Maintained by: [David Walker](https://davidlwalker.com) aka [Radical Dave](https://radicaldave.com) aka [Sitecore Dave](https://sitecoredave.com)
 
